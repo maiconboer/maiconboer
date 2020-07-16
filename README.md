@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá, eu sou o Maicon! 👋🧔
 
-<!--
-**maiconboer/maiconboer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--------------------------
 
-Here are some ideas to get you started:
+<div>
+<p>👨‍💻Front-end developer <img align="right" src=".github/web_developer.png" width="350"></p>
+<p>🎓 Graduate: Systems Analysis and Development</p>
+<p>💻 Programming: Javascript, NodeJS, Express, ReactJS, React Native</p>
+<p>💾 Databases: Postgres, MySQL (basic)</p>
+<p>📚 I’m currently learning: NodeJS, ReactJS and React Native</p>
+<p>⚙️ Others techs: Docker, Jest, HTML5, CSS, Nunjucks.</p>
+<p>🧑‍🎓Currently studying English</p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
